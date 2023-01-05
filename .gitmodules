@@ -1,6 +1,6 @@
 [submodule "SR"]
 	path = SR
-	url = https://github.com/RangeNetworks/subscriberRegistry.git
+	url = https://github.com/PentHertz/subscriberRegistry.git
 	branch = master
 [submodule "CommonLibs"]
 	path = CommonLibs
